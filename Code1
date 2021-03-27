@@ -1,0 +1,6 @@
+# This is a piece of code
+print('Hello World')
+a=8
+b=7
+c=a+b
+print('the sum of the 2 nummbers is:'+c)
